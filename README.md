@@ -56,3 +56,4 @@ The application will start and automatically open in your default browser at htt
 ├── output/                 # Final video outputs
 └── audio/                  # Generated audio files
 ```
+[Sample Video Link  created by Videdu](https://drive.google.com/file/d/1sFf21RJHtb_Mf-GmaWYb7OBlcBKYXarX/view?usp=sharing)
